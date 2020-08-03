@@ -17,13 +17,12 @@ This project was an excellent way to combine data analysis and exploration with 
 ### Here, you can check some of the outcomes of the project
 ### Area plot of Daily Rainfall average made with pandas
 This was done by calculating daily normals (the averages for the min, avg, and max temperatures) from a specific date 
+
 ![Area_plot_data.png](Images/Area_plot_data.png)
 ### Initial page of Climate API made with Flask
 With the queries made from the initial analysis, a flask API was made with four routes of the most important climate data.
+
 ![Initial_page.png](Images/Initial_page.png)
 
-## Build status
-
-## Coding style 
 
 
