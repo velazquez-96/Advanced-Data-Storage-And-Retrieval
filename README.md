@@ -1,17 +1,19 @@
 # sqlalchemy-challenge
 The following project is focused: 
 * First, on analysing and exploring climate weather conditions from Honolulu, Hawaii.
-* And second, on designing a Flask API
+* And second, on designing a Climate API with Flask.
 
 ## Features
 * Advanced data storage and retrieval
-* Data analysis and exploration of climate database using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+* Exploratory analysis of climate database using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 ## Built with 
 
 * Flask 
 
 ## Outcomes
+
+Here you can check some of the outcomes of the project. However, if you have any doubts feel free to check files
 
 ### Area plot of Daily Rainfall average made with pandas
 This was done by calculating daily normals (the averages for the min, avg, and max temperatures) from a specific date 
