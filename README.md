@@ -1,4 +1,5 @@
-# sqlalchemy-challenge
+# Climate Analytics
+
 The following project is focused: 
 * First, on analysing and exploring climate weather conditions from Honolulu, Hawaii.
 * And second, on designing a Climate API with Flask.
