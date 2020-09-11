@@ -1,12 +1,12 @@
 # Climate Analytics
 
 The following project is focused: 
-* First, on analysing and exploring climate weather conditions from Honolulu, Hawaii.
-* And second, on designing a Climate API with Flask.
+* **First**, on analysing and exploring climate weather conditions from Honolulu, Hawaii.
+* And **second**, on designing a Climate API with Flask.
 
 The development of the project includes two parts:
 
-* Step 1 - Climate Analysis and Exploration
+* **Step 1 - Climate Analysis and Exploration**
 
 Use of Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. The analysis is completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
   * Precipitation Analysis
@@ -20,14 +20,15 @@ Use of Python and SQLAlchemy to do basic climate analysis and data exploration o
     * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
     * Filter by the station with the highest number of observations.
     
-* Step 2 - Climate App
+* **Step 2 - Climate App**
 
   * Design a Flask API based on the queries made previously
   * Use Flask to create your routes.
 
 ## Features
-* Advanced data storage and retrieval
-* Exploratory analysis of climate database using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+
+* **Advanced data storage and retrieval**
+* Exploratory analysis of climate database using **SQLAlchemy ORM queries, Pandas, and Matplotlib.**
 
 ## Built with 
 
